@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "367740243804",
+    "project_id": "nameless-3f6e8",
+    "storage_bucket": "nameless-3f6e8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:367740243804:android:3004de54f30f5cfbb03b99",
+        "android_client_info": {
+          "package_name": "com.nameless.firebasedb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "367740243804-tgjd8r656pptb3o5f93kgs8oi4c4lmb1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmI9N-AqfXn6NSaXeYo8KkpiN6SeEdTR4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "367740243804-tgjd8r656pptb3o5f93kgs8oi4c4lmb1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:367740243804:android:7d0e274f9c1266d1b03b99",
+        "android_client_info": {
+          "package_name": "com.nameless.loginregisterrelatic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "367740243804-tgjd8r656pptb3o5f93kgs8oi4c4lmb1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmI9N-AqfXn6NSaXeYo8KkpiN6SeEdTR4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "367740243804-tgjd8r656pptb3o5f93kgs8oi4c4lmb1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
